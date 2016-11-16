@@ -5,13 +5,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iKlem/screepsmod-gclToCpu.git"
+    "url": "git+https://github.com/iKlem/screepsmod-gcltocpu.git"
   },
   "author": "Clement Delalande (iKlem)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iKlem/screepsmod-gclToCpu/issues"
+    "url": "https://github.com/iKlem/screepsmod-gcltocpu/issues"
   },
-  "homepage": "https://github.com/iKlem/screepsmod-gclToCpu#readme",
+  "homepage": "https://github.com/iKlem/screepsmod-gcltocpu#readme",
   "screeps_mod": true
 }

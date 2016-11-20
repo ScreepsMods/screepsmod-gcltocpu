@@ -1,6 +1,6 @@
 {
   "name": "screepsmod-gcltocpu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Mod for Screeps to link the CPU with the GCL",
   "main": "index.js",
   "repository": {

@@ -1,5 +1,5 @@
 # screepsmod-gcltocpu
-###### Current version: 0.2.0
+###### Current version: 0.2.1
 ### Informations
 Mod to enable the change of CPU with the change of GCL, like in the official server.
 

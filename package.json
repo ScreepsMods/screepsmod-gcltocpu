@@ -1,13 +1,16 @@
 {
   "name": "screepsmod-gcltocpu",
-  "version": "0.2.1",
-  "description": "Mod for Screeps to link the CPU with the GCL",
+  "version": "0.3.0",
+  "description": "This mod change the CPU with the GCL, like on the official Screeps server",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iKlem/screepsmod-gcltocpu.git"
   },
-  "author": "Clement Delalande (iKlem)",
+  "author": "Clement Delalande <delalande.clem@gmail.com> (https://github.com/iKlem)",
+  "contributors": [
+    "DeathTech (https://github.com/DeathTech154)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iKlem/screepsmod-gcltocpu/issues"

@@ -30,6 +30,11 @@ module.exports = (config) => {
               gclLevel = Math.floor(Math.pow((user.gcl || 0) / gclMult, 1 / gclPow)) + 1,
               newCPU = gclLevel * 10 + 20
               // TODO: Add check for errors
+              if (user.cpu == 100) {
+                if (newCPU < user.cpu) {
+                  updateUser(user, newCPU);
+                }
+              }
               if (!forceUpdate) {
                 if (newCPU > user.cpu) {
                   updateUser(user, newCPU);

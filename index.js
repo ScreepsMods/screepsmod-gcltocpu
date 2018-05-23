@@ -28,7 +28,7 @@ module.exports = (config) => {
         var promise = oldUsers.apply(this, Array.prototype.slice.call(arguments));
 
         return promise.then(result => {
-          for(let user of result) {
+          for(let user of result.ivm) {
             if(!user.bot) {
               gclLevel = Math.floor(Math.pow((user.gcl || 0) / gclMult, 1 / gclPow)) + 1,
               newCPU = gclLevel * 10 + 20

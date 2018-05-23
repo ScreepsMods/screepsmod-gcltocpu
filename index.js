@@ -1,7 +1,7 @@
 /*
 * Author: Clement Delalande (https://github.com/iKlem)
 * More informations on the github repo (https://github.com/ScreepsMods/screepsmod-gcltocpu)
-* Version: 0.3.0
+* Version: 0.3.1
 */
 
 module.exports = (config) => {

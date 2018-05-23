@@ -1,5 +1,5 @@
 # screepsmod-gcltocpu
-###### Current version: 0.3
+###### Current version: 0.3.1
 ## Informations
 This mod will update the change of CPU with the GCL, like on the official server.  
 
@@ -16,6 +16,7 @@ This mod will update the change of CPU with the GCL, like on the official server
 ### Contributors
 * [iKlem](https://github.com/iKlem) (Creator)  
 * [DeathTech](https://github.com/DeathTech154)  
+* [scitor](https://github.com/scitor)  
 
 #### Some idea or modifications ?
 You can open an issue or do a pull request.  
